@@ -54,7 +54,7 @@ def insta(user,passwd):
 
 def main():
 
-    insta("birlaz.atasozu","Kadife1903")
+    insta("kullanıcı adı","Pass")
 
 
 if __name__ == "__main__":
